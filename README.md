@@ -1,0 +1,2 @@
+# Automatizaci-nDeTanques_RaspberryPi
+CHALLENGE: Esta experiencia práctica tiene como disposición general, implementar la integración del dispositivo Raspberry Pi con procesos industriales, con el objetivo de brindar una solución factible a través de la programación estructurada que permita el manejo de entradas y salidas digitales para gestionar de forma coordinada señales de distintos niveles de tensión.
